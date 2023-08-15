@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import syss
+import sys
 
 def tonum(s):
     try:
